@@ -1,0 +1,28 @@
+- class_name: 网站搭建供应商
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网站框架
+    - name: anzhiyu主题
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+    - name: 红石的主页
+      link: https://home.hongshi.us.kg/
+      avatar: https://s11.ax1x.com/2024/01/24/pFeUF91.jpg
+      descr: 一个普通人的主页
+      siteshot: https://s21.ax1x.com/2024/06/15/pkwKgQH.jpg
+    - name: 蜜蜂云
+      link: https://www.beecld.com/
+      avatar: https://s21.ax1x.com/2024/06/15/pkwKUy9.jpg
+      descr: 国内良心的服务器供应商
+      siteshot: https://s21.ax1x.com/2024/06/15/pkwQCUP.jpg
+    - name: Cloudflare
+      link: https://www.cloudflare.com/
+      avatar: https://www.pngrepo.com/png/331337/180/cloudflare.png
+      descr: 全球最大的域名提供商
+      siteshot: https://logos-marcas.com/wp-content/uploads/2022/03/Cloudflare-Logotipo-2016.jpg
